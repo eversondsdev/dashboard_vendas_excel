@@ -8,7 +8,7 @@ Este projeto é um Dashboard de Vendas desenvolvido para organizar e visualizar 
 
 - Excel
 
-📊 ##Dados Utilizados
+## 📊 Dados Utilizados
 
 Os dados utilizados no dashboard incluem:
 
