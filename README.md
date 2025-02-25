@@ -1,6 +1,6 @@
 # Dashboard de Vendas
 
-📌 ##Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este projeto é um Dashboard de Vendas desenvolvido para organizar e visualizar dados de vendas de planos do xbox game pass. O objetivo é transformar dados brutos em gráficos e métricas, permitindo uma análise do desempenho de vendas e auxiliando na tomada de decisões.
 
